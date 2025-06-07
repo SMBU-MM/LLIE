@@ -1,4 +1,4 @@
-# SynLLIE-NTIRE2025
+# SynLLIE
 
 ## 1. Create Environment
 

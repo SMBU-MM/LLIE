@@ -47,8 +47,8 @@ datasets:
   val:
     name: ValSet
     type: Dataset_PairedImage
-    dataroot_gt: /home/long/data/Darkface/DarkFace_Train_2021/train/images_2
-    dataroot_lq: /home/long/data/Darkface/DarkFace_Train_2021/train/images_2
+    dataroot_gt: # HQ Image Path
+    dataroot_lq: # LQ Image Path
     io_backend:
       type: disk
 

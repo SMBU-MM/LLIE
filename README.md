@@ -45,4 +45,9 @@ Put them in folder `pretrain_models`
 conda activate synllie
 
 # run
-python3 Enhancement/test_from_dataset.py --opt Options/NTIRE_LLIE2025.yml --weights pretrain_models/NTIRE_LLIE2025.pth 
+# test on LOL_v1
+python3 Enhancement/test_from_dataset.py --opt Options/NewAttentionUNet2_test.yml --weights pretrained_models/AttentionUNet_LOL_v1.pth
+# test on LOL_v2_real
+python3 Enhancement/test_from_dataset.py --opt Options/NewAttentionUNet2_test.yml --weights pretrained_models/AttentionUNet_LOL_v2.pth
+# test on other dataset
+python3 Enhancement/test_from_dataset.py --opt Options/NewAttentionUNet2_test.yml --weights pretrained_models/AttentionUNet_baseline.pth 

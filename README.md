@@ -44,7 +44,7 @@ Put them in folder `pretrain_models`
 # activate the environment
 conda activate synllie
 
-# run
+# run (The path of the test set is modified in the configuration file.)
 # test on LOL_v1
 python3 Enhancement/test_from_dataset.py --opt Options/NewAttentionUNet2_test.yml --weights pretrained_models/AttentionUNet_LOL_v1.pth
 # test on LOL_v2_real

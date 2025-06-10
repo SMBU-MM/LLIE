@@ -38,7 +38,7 @@ Paper1: [Google Drive](https://drive.google.com/drive/folders/1eMRYNUgcTAduv4OVn
 
 Paper2: [Google Drive](https://drive.google.com/drive/folders/1tBYkZ7gXaI_sh8UGcXQfoPqAn4TB8fQU?usp=sharing)
 
-Put them in folder `pretrain_models`
+Put them in folder `pretrained_models`
 
 ```shell
 # activate the environment

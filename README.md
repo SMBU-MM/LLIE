@@ -40,7 +40,7 @@ Paper2: [Google Drive](https://drive.google.com/drive/folders/1tBYkZ7gXaI_sh8UGc
 
 Put them in folder `pretrained_models`
 
-Tip: We use the method provided in IQA-PyTorch to calculate the metrics.[IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch)
+Tip: We use the method provided in IQA-PyTorch to calculate the metrics. [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch)
 
 ```shell
 # activate the environment

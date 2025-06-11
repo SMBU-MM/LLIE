@@ -3,7 +3,7 @@ This is a repository of two papers
 
 Paper1: Enhancing Low-Light Images: A Synthetic Data Perspective on Practical and Generalizable Solutions [link](https://doi.org/10.1609/aaai.v39i6.32617)
 
-Paper2: Towards Realistic Low-Light Image Enhancement via ISP-Driven Data Modeling
+Paper2: Towards Realistic Low-Light Image Enhancement via ISP-Driven Data Modeling [link](https://arxiv.org/abs/2504.12204)
 
 ## 1. Create Environment
 
